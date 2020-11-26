@@ -1,6 +1,6 @@
 ## Hi Everyone! Welcome to my Github :D
 
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat)
+![](https://komarev.com/ghpvc/?username=sgoudham&style=flat)
 
 I'm currently in the first year of my Software Engineering Degree Apprenticeship at the University of Glasgow, I'm also a Software Engineer Apprentice at the BBC.
 
