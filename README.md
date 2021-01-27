@@ -2,7 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=sgoudham&style=flat)
 
-I'm currently in the first year of my Software Engineering Degree Apprenticeship at the University of Glasgow, I'm also a Software Engineer Apprentice at the BBC.
+- First Year Undergraduate Student at University of Glasgow
+- Studying Software Engineering through a Graduate Apprenticeship
+- Working as a Software Engineer Apprentice at the BBC
 
 ### My Github Structure
 - [Personal Projects](https://github.com/sgoudham?tab=repositories)
