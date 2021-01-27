@@ -17,4 +17,4 @@ I'm currently in the first year of my Software Engineering Degree Apprenticeship
 
 [![Goudham's github stats](https://github-readme-stats.vercel.app/api?username=sgoudham&count_private=true&show_icons=true&theme=radical)](https://github.com/sgoudham/github-readme-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgoudham&layout=compact)](https://github.com/sgoudham/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgoudham&layout=compact&theme=radical)](https://github.com/sgoudham/github-readme-stats)
