@@ -15,4 +15,4 @@ I'm currently in the first year of my Software Engineering Degree Apprenticeship
 - [Instagram](https://www.instagram.com/sgoudham/)
 - [Discord](https://discord.bio/p/hammy)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sgoudham&count_private=true&show_icons=true&theme=synthwave)](https://github.com/sgoudham/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sgoudham&count_private=true&show_icons=true&theme=cobalt)](https://github.com/sgoudham/github-readme-stats)
