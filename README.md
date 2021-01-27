@@ -15,4 +15,12 @@ I'm currently in the first year of my Software Engineering Degree Apprenticeship
 - [Instagram](https://www.instagram.com/sgoudham/)
 - [Discord](https://discord.bio/p/hammy)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sgoudham&count_private=true&show_icons=true&theme=radical)](https://github.com/sgoudham/github-readme-stats)
+[!Goudham's github stats](https://github-readme-stats.vercel.app/api?username=sgoudham&count_private=true&show_icons=true&theme=radical)](https://github.com/sgoudham/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgoudham&layout=compact)](https://github.com/sgoudham/github-readme-stats)
+
+<a href="https://github.com/sgoudham/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sgoudham&count_private=true&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/sgoudham/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgoudham&layout=compact" />
+</a>
