@@ -13,7 +13,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sgoudham/">LinkedIn</a><br>
   <a href="https://twitter.com/RealGoudham">Twitter</a><br>
-  <a href="https://www.instagram.com/sgoudham/">Instagram</a><br>
   <a href="https://discord.bio/p/hammy">Discord</a>
 </p>
 
