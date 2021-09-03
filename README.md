@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Goudham Suresh</h1>
-<h3 align="center">Software Engineer Apprentice @ BBC <br> First Year Graduate Apprentice @ University of Glasgow</h3>
+<h1 align="center">Hi 👋 I'm Goudham Suresh</h1>
+<h3 align="center">Software Engineer Apprentice @ BBC <br> Second Year Graduate Apprentice @ University of Glasgow</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sgoudham&label=Profile%20views&color=0e75b6&style=flat" alt="sgoudham" /> </p>
 
 <h3 align="center">My Github Structure:</h3>
