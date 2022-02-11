@@ -9,6 +9,8 @@ languages such as C/Go/Rust.
 <details>
     <summary><strong>My Github Structure</strong></summary>
 
+<br>
+
 - [Personal Projects](https://github.com/sgoudham?tab=repositories)
 - [University Projects](https://github.com/sgoudham-university)
 - [Personal Website](https://goudham-me)
@@ -16,6 +18,8 @@ languages such as C/Go/Rust.
 </details>
 <details>
     <summary><strong>Where To Reach Me</strong></summary>
+
+<br> 
 
 - [LinkedIn](https://www.linkedin.com/in/sgoudham/)
 - [Twitter](https://twitter.com/RealGoudham)
