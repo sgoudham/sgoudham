@@ -3,8 +3,12 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sgoudham&label=Profile%20views&color=0e75b6&style=flat" alt="sgoudham" /> </p>
 
 I am working within a JVM based team that focuses on programme metadata delivery utilizing
-microservice architecture. My personal interests vary but are currently focused towards systems programming in 
-languages such as C/Go/Rust. 
+microservice architecture in a serverless manner. My personal interests vary but are currently focused towards systems programming in 
+languages such as C/Go/Rust.
+
+<p align="center"> <a href="https://github.com/sgoudham/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sgoudham&count_private=true&show_icons=true&theme=radical" />
+</a> </p>
 
 <details>
     <summary><strong>My Github Structure</strong></summary>
@@ -27,15 +31,11 @@ languages such as C/Go/Rust.
 
 </details>
 <details>
-    <summary><strong>Most Used Languages</strong></summary>
+    <summary><strong>More Github Stats</strong></summary>
 
 <p align="center"> <a href="https://github.com/sgoudham/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgoudham&layout=compact&theme=radical&langs_count=5" />
 </a> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sgoudham&theme=radical" alt=""/> </p>
 
 </details>
-
-<p align="center"> <a href="https://github.com/sgoudham/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sgoudham&count_private=true&show_icons=true&theme=radical" />
-</a> </p>
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sgoudham&theme=radical" alt=""/> </p>
