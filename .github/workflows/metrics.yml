@@ -28,23 +28,6 @@ jobs:
           config_timezone: Europe/London
           user: sgoudham
           template: classic
-            
-      - name: 📊 Introduction
-        uses: lowlighter/metrics@latest
-        with:
-          filename: introduction.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: sgoudham
-          base: header
-          plugin_introduction: yes
-      
-      - name: Lines of code changed
-        uses: lowlighter/metrics@latest
-        with:
-          filename: lines-changed.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: repositories
-          plugin_lines: yes
       
       - name: 📊 Recently used
         uses: lowlighter/metrics@latest
