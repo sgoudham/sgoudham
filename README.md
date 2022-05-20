@@ -7,6 +7,6 @@ microservice architecture in a serverless manner. My personal interests vary but
 languages such as C/Go/Rust.
 
 <img align="left" src="/introduction.svg" alt="Introduction" width="400">
-<img align="right" src="/achievements.svg" alt="Achievements" width="400">
+<img align="right" src="/achievements.svg" alt="Achievements" width="350">
 <img align="left" src="/recent-activity.svg" alt="Recent Activity" width="400">
 <img align="right" src="/most-used-langs.svg" alt="Most Used Languages" width="400">
