@@ -3,5 +3,5 @@
 
 <img align="left" src="/introduction.svg" alt="Introduction" width="400">
 <img align="left" src="/achievements.svg" alt="Achievements" width="400">
-<img align="right" src="/recent-activity.svg" alt="Recent Activity" width="450">
-<img align="right" src="/most-used-langs.svg" alt="Most Used Languages" width="450">
+<img align="right" src="/recent-activity.svg" alt="Recent Activity" width="400">
+<img align="right" src="/most-used-langs.svg" alt="Most Used Languages" width="400">
