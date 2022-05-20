@@ -29,7 +29,7 @@ jobs:
           user: sgoudham
           template: classic
             
-      - name: 📊 Organization introduction
+      - name: 📊 Introduction
         uses: lowlighter/metrics@latest
         with:
           filename: introduction.svg
@@ -37,6 +37,14 @@ jobs:
           user: sgoudham
           base: header
           plugin_introduction: yes
+      
+      - name: Lines of code changed
+        uses: lowlighter/metrics@latest
+        with:
+          filename: lines-changed.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: repositories
+          plugin_lines: yes
       
       - name: 📊 Recently used
         uses: lowlighter/metrics@latest
