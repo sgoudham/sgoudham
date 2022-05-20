@@ -32,7 +32,7 @@ jobs:
       - name: 📊 Organization introduction
         uses: lowlighter/metrics@latest
         with:
-          filename: introduction
+          filename: introduction.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: sgoudham
           base: header
@@ -66,7 +66,7 @@ jobs:
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_days: 14
-          plugin_activity_filter: all
+          plugin_activity_filter: issue, pr, release, fork, review, ref/create
           plugin_activity_load: 300
           plugin_activity_visibility: public
 
