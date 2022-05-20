@@ -28,6 +28,16 @@ jobs:
           config_timezone: Europe/London
           user: sgoudham
           template: classic
+
+      - name: 📊 Introduction
+        uses: lowlighter/metrics@latest
+        with:
+          filename: introduction.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: sgoudham
+          base: header, activity, repositories, community, metadata
+          config_order: base.header
+          plugin_introduction: yes
       
       - name: 📊 Recently used
         uses: lowlighter/metrics@latest
