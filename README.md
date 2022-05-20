@@ -6,7 +6,7 @@ I am working within a JVM based team that focuses on programme metadata delivery
 microservice architecture in a serverless manner. My personal interests vary but are currently focused towards systems programming in 
 languages such as C/Go/Rust.
 
-<img align="left" src="/introduction.svg" alt="Introduction" width="550">
-<img align="right" src="/achievements.svg" alt="Achievements" width="550">
-<img align="left" src="/recent-activity.svg" alt="Recent Activity" width="550">
-<img align="right" src="/most-used-langs.svg" alt="Most Used Languages" width="550">
+<img align="left" src="/introduction.svg" alt="Introduction" width="500">
+<img align="right" src="/achievements.svg" alt="Achievements" width="500">
+<img align="left" src="/recent-activity.svg" alt="Recent Activity" width="500">
+<img align="right" src="/most-used-langs.svg" alt="Most Used Languages" width="500">
