@@ -27,7 +27,7 @@
                     <rect mask="url(#languages-bar)" x="399.29406773941633" y="0" width="23.99522845816268" height="8" fill="#e34c26"/>
                     <rect mask="url(#languages-bar)" x="423.289296197579" y="0" width="10.662082106630463" height="8" fill="#555555"/>
                     <rect mask="url(#languages-bar)" x="433.9513783042095" y="0" width="9.591237331617775" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="443.5426156358273" y="0" width="8.737303132266543" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="443.5426156358273" y="0" width="8.737303132266543" height="8" fill="#3178c6"/>
                     <rect mask="url(#languages-bar)" x="452.27991876809386" y="0" width="7.720081231906224" height="8" fill="#199f4b"/>
                 </svg>
                 <div class="row fill-width">
@@ -71,7 +71,7 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#2b7489" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 TypeScript
                             </div>
