@@ -1,8 +1,16 @@
-<h1 align="center">Hi 👋 I'm Goudham Suresh</h1>
-<h2 align="center">Software Engineer @ BBC <br> 3rd Year Graduate Apprentice @ University of Glasgow</h3>
+## Hiya, I'm Goudham 👋
 
-<img align="left" src="/introduction.svg" alt="Introduction" width="400">
-<img align="left" src="/achievements.svg" alt="Achievements" width="400">
-<img align="left" src="/most-used-langs.svg" alt="Most Used Languages" width="400">
-<img align="left" src="/recent-activity.svg" alt="Recent Activity" width="400">
-<img align="left" src="/indepth-analysis.svg" alt="Indepth Analysis" width="400">
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=sgoudham&show_icons=true&theme=radical">](https://github.com/anuraghazra/github-readme-stats)
+
+I care a lot about open-source software.
+
+- 🔭  I study and work at the same time, learn more about that
+  [here](https://www.gla.ac.uk/schools/computing/undergraduate/graduateapprenticeships/).
+- 🌱  I'm endlessly curious and love learning about anything.
+- 💬  Ask me about anything related to Java/Python/Rust and/or microservice
+  architectures.
+- 🎨  I like [pretty colours](https://github.com/catppuccin).
+
+---
+
+![](hamster.gif)
