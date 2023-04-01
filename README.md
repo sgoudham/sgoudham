@@ -1,6 +1,6 @@
 ## Hiya, I'm Goudham 👋
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=sgoudham&show_icons=true&theme=radical">](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" src="hamster.gif">
 
 I care a lot about open-source software.
 
@@ -10,7 +10,3 @@ I care a lot about open-source software.
 - 💬  Ask me about anything related to Java/Python/Rust and/or microservice
   architectures.
 - 🎨  I like [pretty colours](https://github.com/catppuccin).
-
----
-
-![](hamster.gif)
