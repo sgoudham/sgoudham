@@ -1,7 +1,5 @@
 ## Hiya, I'm Goudham 👋
 
-<img align="right" src="hamster.gif">
-
 I care a lot about open-source software.
 
 - 🔭  I study and work at the same time, learn more about that
